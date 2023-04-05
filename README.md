@@ -1,5 +1,6 @@
 # theEncounter
 
+Download Link https://drive.google.com/file/d/1b1wyrZUrrtbmioPiVO0S4un3zRcPD9YQ/view?usp=sharing
 
 The Encounter is a 2D platform game for Windows. 
 
