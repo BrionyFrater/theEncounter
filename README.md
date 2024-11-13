@@ -1,6 +1,6 @@
-# theEncounter
+# The Encounter
 
-Download Link https://drive.google.com/file/d/1b1wyrZUrrtbmioPiVO0S4un3zRcPD9YQ/view?usp=sharing
+### Download Link - https://drive.google.com/file/d/1b1wyrZUrrtbmioPiVO0S4un3zRcPD9YQ/view?usp=sharing
 
 How to Install
 
