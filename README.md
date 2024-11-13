@@ -11,4 +11,4 @@ The Encounter is a 2D platform game for Windows.
 * I coded the game with C# in Unity
 * I created all visual assets 
 
-Showreel https://drive.google.com/file/d/170qTnkm0pj1IliH0saI_a0dZT1yp-veJ/view?usp=sharing
+[Showreel](https://drive.google.com/file/d/170qTnkm0pj1IliH0saI_a0dZT1yp-veJ/view?usp=sharing)
